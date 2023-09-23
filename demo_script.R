@@ -9,3 +9,6 @@ y <- rnorm(500)
 # New feature
 
 # Normal development
+
+# An alternative way forward
+
